@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(207, 207, 207, 0.411);
+    background-color: rgba(204, 204, 204, 0.747);
     color: rgba(22, 22, 22, 0.753);
 }
 
@@ -15,4 +15,9 @@ button{
     font-family: cursive;
     font-size: 15;
     font-weight: 750;
+}
+
+img{
+    position: absolute;
+    z-index: -1;
 }
